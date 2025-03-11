@@ -1,0 +1,11 @@
+.container{
+    border: solid 1px green;
+    border-radius: 20px;
+    padding: 20px 80px 200px 0px;
+    margin: 0 auto;
+    width: 40%;
+}
+
+.inner-container{
+    border: dotted 1px red;
+}
